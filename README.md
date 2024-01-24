@@ -1,18 +1,19 @@
 # Godot Editor Themes
+![Godot](https://godotengine.org/assets/press/logo_large_color_dark.svg)
 
-## Usage of themes for Godot Interface
+## How to Install themes for Godot Interface
 
 1. Clone the respective repository of theme you want.
 2. Open Godot with any project.
 3. Open Editor Tab.
 4. Open Editor Settings.
 5. Search for `theme` using search bar.
-6. Click on the `theme`, under Themes group.
-7. Scroll to down and click on the folder on right of `this option`
-8. Navigate to the folder where you cloned the theme, select the `.tres` file and click OK.
+6. Click on the `Theme`, under `Interface` group.
+7. Click on the folder on right of `Custom Theme` option.
+8. Navigate to the folder where you cloned the theme, select the `.tres` file and click `Open`.
 
 
-## Usage of themes in Godot Text Editor
+## How to Install themes in Godot Text Editor
 1. Open Godot with any project.
 2. Open Editor Tab.
 3. Open Editor Settings.
@@ -20,7 +21,7 @@
 5. Click on `Theme` which will be under `Text Editor` group.
 6. In `Color Theme` select any theme you want.
 
-**If you can't find the Theme of your choice, follow the below steps**
+*If you can't find the Theme of your choice, follow the below steps*
 
 1. Open Godot with any project.
 2. Open Editor Tab.
